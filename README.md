@@ -4,15 +4,15 @@
   <a href="https://github.com/hankinghu"><img src="banner.png" alt="edisonlee55 Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Hanking Hu</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/hankinghu">Hanking Hu</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <a href="https://github.com/hankinghu"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+  <a href="https://github.com/hankinghu"><img src="https://github-readme-stats.vercel.app/api?username=hankinghu&hide_border=true&show_icons=true" alt="hankinghu's github stats"></a>
 </p>
 
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">❤ I'm currently working on android.</p>
 
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
