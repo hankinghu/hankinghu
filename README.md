@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/hankinghu"><img src="code.gif" alt="code gif"></a>
+  <a href="https://github.com/hankinghu"><img src="code.gif" alt="code gif" width="500" height="300"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/hankinghu">Hanking Hu</a>!</h1>
